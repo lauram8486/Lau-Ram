@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer defensive secure lock ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 34,70 A 28,28 0 1,1 74,70" />
+
+    <!-- Sleek Diagonal Warp Speed Lightning Symbol (center 54, 54) -->
+    <!-- Point 1: (58, 25), Point 2: (38, 54), Point 3: (50, 54), Point 4: (40, 78), Point 5: (68, 48), Point 6: (54, 48) -->
+    <path
+        android:fillColor="#FFFF6B35"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:strokeLineJoin="round"
+        android:pathData="M 60,26 L 38,55 L 50,55 L 42,80 L 68,48 L 54,48 Z" />
+
+    <!-- 4K Emblem Text indicators represented beautifully as glowing dots/bars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 72,50 L 76,50 L 76,57 L 78,57 L 78,59 L 76,59 L 76,62 L 74,62 L 74,59 L 72,59 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 80,50 L 82,50 L 82,55 L 85,50 L 88,50 L 84,56 L 88,62 L 85,62 L 82,57 L 82,62 L 80,62 Z" />
+</vector>

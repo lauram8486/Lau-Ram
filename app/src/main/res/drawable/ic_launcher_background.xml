@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Deep Cosmic Dark Blue-Gray Background -->
+    <path
+        android:fillColor="#0E131F"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Subtle Tech Hex/Diagonal Lines styled inside 108x108 viewport -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M-10,34 L118,34 M-10,74 L118,74 M34,-10 L34,118 M74,-10 L74,118"
+        android:strokeWidth="1.2"
+        android:strokeColor="#16FFFFFF" />
+
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,0 L108,108 M108,0 L0,108"
+        android:strokeWidth="0.8"
+        android:strokeColor="#0AFFFF6B" />
+</vector>

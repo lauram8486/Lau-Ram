@@ -1,0 +1,6 @@
+{
+  "name": "Warp4K",
+  "description": "Unlock 4K streaming resolution and bypass network throttling using secure Warp-like DNS tunneling and protocol diagnostic optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
